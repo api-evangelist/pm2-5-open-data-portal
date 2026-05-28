@@ -1,0 +1,32 @@
+aid: pm2-5-open-data-portal
+name: PM2.5 Open Data Portal
+description: "Open low-cost PM2.5 sensor data"
+url: https://pm25.lass-net.org/#apis
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: PM2.5 Open Data Portal
+    description: "Open low-cost PM2.5 sensor data"
+    humanURL: https://pm25.lass-net.org/#apis
+    baseURL: https://pm25.lass-net.org/#apis
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://pm25.lass-net.org/#apis
+common:
+  - type: Website
+    url: https://pm25.lass-net.org/#apis
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
