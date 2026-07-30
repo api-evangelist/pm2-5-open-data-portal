@@ -1,4 +1,16 @@
 aid: pm2-5-open-data-portal
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pm2-5-open-data-portal.png
 name: PM2.5 Open Data Portal
 description: "Open low-cost PM2.5 sensor data"
 url: https://pm25.lass-net.org/#apis
