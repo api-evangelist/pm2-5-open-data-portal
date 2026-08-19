@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pm2-5-open
 name: PM2.5 Open Data Portal
 description: "Open low-cost PM2.5 sensor data"
 url: https://pm25.lass-net.org/#apis
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
